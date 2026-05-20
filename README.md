@@ -8,11 +8,15 @@ Kidney stones are a common and painful medical condition. Early and accurate det
 
 🧪 Techniques Used
 
-Gabor Filtering — texture feature extraction from ultrasound images
-Histogram Equalization — contrast enhancement for better visibility
-Watershed Segmentation — region-based segmentation to isolate stones
-Gaussian Filtering — noise reduction and image smoothing
-Median & Laplacian Filtering — edge sharpening and speckle removal
+Gabor Filtering: texture feature extraction from ultrasound images
+
+Histogram Equalization: contrast enhancement for better visibility
+
+Watershed Segmentation: region-based segmentation to isolate stones
+
+Gaussian Filtering: noise reduction and image smoothing
+
+Median & Laplacian Filtering: edge sharpening and speckle removal
 
 
 📁 Project Structure
