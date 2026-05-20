@@ -15,12 +15,19 @@ Median & Laplacian Filtering — edge sharpening and speckle removal
 
 📁 Project Structure
 ├── Finalcode.py         # Main detection pipeline
+
 ├── Gabor_HistEq.py      # Gabor filter + Histogram Equalization
+
 ├── WaterShed.py         # Watershed segmentation
+
 ├── gaussian.py          # Gaussian smoothing
+
 ├── med_lap.py           # Median and Laplacian filtering
+
 ├── sg.py                # Supplementary processing
+
 ├── read_write.py        # Image I/O utilities
+
 └── Installation.md      # Setup instructions
 
 ⚙️ Installation
