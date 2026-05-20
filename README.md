@@ -14,6 +14,7 @@ Median & Laplacian Filtering — edge sharpening and speckle removal
 
 
 📁 Project Structure
+
 ├── Finalcode.py         # Main detection pipeline
 
 ├── Gabor_HistEq.py      # Gabor filter + Histogram Equalization
