@@ -1,7 +1,9 @@
 🫘 Kidney Stone Detection
+
 A Python-based medical imaging project that detects kidney stones in Ultrasound and CT scan images using classical Image Processing and Machine Learning techniques.
 
 📌 Overview
+
 Kidney stones are a common and painful medical condition. Early and accurate detection from medical images can significantly aid diagnosis. This project applies a pipeline of image processing algorithms to identify potential kidney stone regions in grayscale medical scans.
 
 🧪 Techniques Used
@@ -32,12 +34,14 @@ Median & Laplacian Filtering — edge sharpening and speckle removal
 └── Installation.md      # Setup instructions
 
 ⚙️ Installation
-See Installation.md for setup instructions.
+
+Check Installation.md for setup instructions.
 Dependencies: Python 3.x, OpenCV, NumPy, SciPy, Matplotlib
-bashpip install opencv-python numpy scipy matplotlib
+pip install opencv-python numpy scipy matplotlib
 
 🚀 Usage
-bashpython Finalcode.py
+
+python Finalcode.py
 Provide the path to your ultrasound or CT scan image when prompted. The output will display the processed image with detected kidney stone regions highlighted.
 
 📚 References
