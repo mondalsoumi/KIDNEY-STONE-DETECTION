@@ -51,8 +51,11 @@ Provide the path to your ultrasound or CT scan image when prompted. The output w
 📚 References
 
 Hindawi – VLSI Journal
+
 IEEE – Kidney Stone Detection
+
 Level Set Method
+
 Data Augmentation Guide
 
 
